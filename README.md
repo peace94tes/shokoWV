@@ -1,1 +1,1 @@
-# shokoWV
+# Shaka+HLS+DRM-Widevine
